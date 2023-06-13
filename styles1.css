@@ -157,7 +157,8 @@
     position: relative;  
     left: 25%;  
     right: -50%;  
-        cursor: pointer;  
+    cursor: pointer;  
+    text-decoration: none;
    }  
    .submit_buttons:hover {  
     border: .7px solid #d0d0d0;  
